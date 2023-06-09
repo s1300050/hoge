@@ -8,8 +8,8 @@ print("Die 1:",x)
 print("Die 2:",y)
 print("Total value:",x+y)
 if(x+y>7):
-    print("You won")
+    print(str,"won")
 else :
-    print("You lost")
+    print(str,"lost")
 
 
